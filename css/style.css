@@ -1,0 +1,64 @@
+.google-image{
+    margin-top: 3.5rem;
+
+}
+
+.google-input{
+    margin-top: 2rem;
+    outline: none;
+    border: none;
+    border:1px solid #c9c9c9;
+    width: 34rem;
+    border-radius: 100px;
+    padding: 0.5rem 0;
+    border-left-style: none;
+} 
+
+
+
+
+.input-group-text{
+    margin-top: 2rem;
+    border-radius: 100px;
+    background-color: #fff;
+    border-right-style: none;
+    color: #9c9c9c;
+}
+  
+.btn{
+    outline: none;
+    border-style: none;
+    padding: 0.4rem 1rem;
+    background-color: #F8F9FA;
+    color: #3D4043;
+}
+.btn:hover{
+    border: 1px solid #c9c9c9;
+}
+
+.footer{
+    background-color: #f2f2f2;
+    font-size: 17px;
+    
+}
+
+.p-footer{
+    margin-top: 0.65rem;
+    margin-left: 1.5rem;
+    margin-bottom: -10px;
+}
+
+.l-footer{
+    margin-left: 1.5rem;
+    
+}
+.l-foot{
+    text-decoration: none;
+    margin-right: 1rem;
+
+}
+
+.l-foot:hover{
+    text-decoration: underline;
+
+}
